@@ -8,7 +8,6 @@ public class opex1 {
         roll = r;
         name = n;
         per = p;
-        System.out.println("Roll no."+roll+"\nName is "+name+"\nPercentage "+per);
-
+        System.out.println("Roll no."+roll+"\nName is "+name+"\nPercentae "+per);
     }
 }
